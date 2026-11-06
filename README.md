@@ -33,7 +33,7 @@ A work-in-progress business management platform designed to help small retailers
 - Implemented JWT authentication, role-based access control, and multi-tenant data isolation.
 - Developed product and inventory management functionality.
 - Implemented transactional inventory operations to help maintain data consistency.
-- Extended order and business workflows, with AI-powered search and payment integration in development.
+- Extending order and business workflows, with AI-powered search and payment integration in development.
 
 **Technologies:** Java, Spring Boot, Spring Security, PostgreSQL, Hibernate
 

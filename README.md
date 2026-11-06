@@ -1,4 +1,4 @@
-# Hi, I'm M Danial Tanoli 👋
+# Hi, I'm M Danial Tanoli 
 
 ### Full-Stack Java Developer | Spring Boot | React | PostgreSQL
 
@@ -6,14 +6,14 @@ I'm a Computer Science graduate focused on building practical software applicati
 
 I enjoy understanding how systems work, solving engineering problems, and turning real-world requirements into reliable software.
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
 - **ShopFlow:** Developing a multi-tenant inventory and business management platform for small retailers.
 - **Full-stack development:** Building applications with Java, Spring Boot, React, and PostgreSQL.
 - **Problem solving:** Strengthening my data structures, algorithms, and computer science fundamentals.
 - **AI Engineering:** Beginning to explore AI engineering and intelligent features for software products.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs, JWT Authentication
 
@@ -25,7 +25,7 @@ I enjoy understanding how systems work, solving engineering problems, and turnin
 
 **Tools:** Git, GitHub, Maven, Postman, Linux
 
-## 💻 Featured Projects
+## Featured Projects
 
 ### [ShopFlow](https://github.com/MDanialML/DShopFlow-api)
 A work-in-progress business management platform designed to help small retailers manage products, inventory, and orders.
@@ -54,7 +54,7 @@ A C-based proxy server project exploring concurrent request handling, socket pro
 ### [DSA Journey](https://github.com/MDanialML/DSA-Journey)
 A record of my ongoing practice in data structures, algorithms, and problem solving.
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Advanced Java and Spring Boot
 - Database design and optimization
